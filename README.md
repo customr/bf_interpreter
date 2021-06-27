@@ -1,3 +1,5 @@
+## About
+
 Brainfuck interpreter I wrote to practice Rust programming.
 
 ## Usage
